@@ -13,6 +13,11 @@ Prilepi vsebino odložišča: *Ctrl+V*
 Razveljavi zadnje dejanje: *Ctrl+Z*
 Ponovi razveljavljeno dejanje: *Ctrl+Y*
 Izberi celotno besedilo: *Ctrl+A*
+- VSCode paleta ukazov: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>)
+- Skok na začetek vrstice: <kbd>Home</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>←</kbd>)
+- Premik za eno besedo naprej: <kbd>Ctrl</kbd>+<kbd>→</kbd> (🍎 <kbd>Option</kbd>+<kbd>→</kbd>)
+- Brisanje vrstice: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd>)
+- Pretvorba označenega besedila v velike črke: ukaz _Transform to Uppercase_ v paleti ukazov
 <!-- 2. nivojski razdelek -->
 Koda
 
@@ -39,4 +44,4 @@ Uporabne povezave
 1. [FMF učilnica](https://ucilnica.fmf.uni-lj.si/)
 2. [Računalniški sistemi, storitve in oprema za študente](https://ucilnica.fmf.uni-lj.si/mod/page/view.php?id=51619)
 3. [Zapiski in vaje za Računalniški praktikum](https://racunalniski-praktikum.github.io/)
-4. [Dokumentacija za Markdown na GitHubu](https://docs.github.com/en/get-started/writing-on-github/5.) getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntaxv
+4. [Dokumentacija za Markdown na GitHubu](https://docs.github.com/en/get-started/writing-on-github/5getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
